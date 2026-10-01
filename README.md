@@ -117,6 +117,8 @@ spam-message-detector/
 - Deploy the application online
 - Add multilingual SMS classification
 
+🔗 Live Demo: https://spam-message-detector-94.streamlit.app/
+
 ## 👩‍💻 Author
 
 Nathasha Vipin
